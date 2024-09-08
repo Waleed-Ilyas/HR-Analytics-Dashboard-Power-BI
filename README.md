@@ -22,3 +22,7 @@ Power BI: Used for powerful data visualization and insightful analytics.
 
 
 **Want to see the dashboard in action? Check out the screenshot below!**
+
+
+  <img width="743" alt="HR Analytics Dashboard Pic 1" src="https://github.com/user-attachments/assets/5947b50d-25c6-4ccc-ad51-3052c8991410">
+
